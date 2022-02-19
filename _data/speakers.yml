@@ -29,3 +29,14 @@
   image_src: /assets/img/speakers/lauren-chambers.png
   image_alt:
   keynote: true
+
+- id: kate-deibel
+  name: Kate Deibel, PhD
+  last: Deibel
+  pronouns: she/her
+  institution: 
+  position-title: Library Accessibility Consultant
+  bio: Kate Deibel is a vocal advocate for accessibility and inclusion in libraries and higher education. She earned a PhD in Computer Science from the University of Washington but would much rather talk about web comics, chili peppers, her cat, technology adoption, and changing the world.
+  image_src: /assets/img/speakers/katherine-deibel.jpg
+  image_alt: Cartoon avatar of a quite pale white bespectacled brunette geek girl whose open downturned mouth is adamantly advocating an important point or three. A bookcase is behind her.
+  keynote: false
